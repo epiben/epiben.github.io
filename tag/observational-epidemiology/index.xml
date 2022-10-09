@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Observational epidemiology | Benjamin Skov Kaas-Hansen</title>
+    <link>https://benskov.dk/tag/observational-epidemiology/</link>
+      <atom:link href="https://benskov.dk/tag/observational-epidemiology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Observational epidemiology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://benskov.dk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Observational epidemiology</title>
+      <link>https://benskov.dk/tag/observational-epidemiology/</link>
+    </image>
+    
+    <item>
+      <title>Hyponatriaemia and mortality in schizophrenic patients: preparing a Bayesian causal prediction study</title>
+      <link>https://benskov.dk/poster/2020/dsf/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://benskov.dk/poster/2020/dsf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
