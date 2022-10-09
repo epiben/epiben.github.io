@@ -2,45 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Benjamin Skov Kaas-Hansen</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://benskov.dk/publication/</link>
+      <atom:link href="https://benskov.dk/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://benskov.dk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://benskov.dk/publication/</link>
     </image>
     
     <item>
-      <title>Drug interactions in hospital prescriptions in Denmark: Prevalence and associations with adverse outcomes</title>
-      <link>/publication/article-ddimark/</link>
-      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/article-ddimark/</guid>
+      <title>Language-agnostic pharmacovigilant text mining to elicit side effects from clinical notes and hospital medication records</title>
+      <link>https://benskov.dk/publication/2022/nlpandmed/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://benskov.dk/publication/2022/nlpandmed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using machine learning to identify patients at high risk of inappropriate drug dosing in periods with renal dysfunction</title>
-      <link>/publication/article-hidosfaikid/</link>
+      <link>https://benskov.dk/publication/2022/hidosfaikid/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/article-hidosfaikid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identifying patients at high risk of inappropriate drug dosing in periods with renal dysfunction</title>
-      <link>/publication/preprint-hidosfaikid/</link>
-      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint-hidosfaikid/</guid>
+      <guid>https://benskov.dk/publication/2022/hidosfaikid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drug interactions in hospital prescriptions in Denmark: Prevalence and associations with adverse outcomes</title>
-      <link>/publication/preprint-ddimark/</link>
-      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint-ddimark/</guid>
+      <link>https://benskov.dk/publication/2022/ddimark/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://benskov.dk/publication/2022/ddimark/</guid>
       <description></description>
     </item>
     

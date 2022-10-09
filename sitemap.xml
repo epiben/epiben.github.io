@@ -3,213 +3,128 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>https://benskov.dk/tag/artificial-intelligence/</loc>
+    <lastmod>2022-10-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <loc>https://benskov.dk/</loc>
+    <lastmod>2022-10-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>https://benskov.dk/tag/drug-safety/</loc>
+    <lastmod>2022-10-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://benskov.dk/talk/2022/dskf__kunstig_intelligens_og_bivirkninger/</loc>
+    <lastmod>2022-10-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://benskov.dk/tag/machine-learning/</loc>
+    <lastmod>2022-10-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/2/</loc>
+    <loc>https://benskov.dk/tags/</loc>
+    <lastmod>2022-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benskov.dk/talk/</loc>
+    <lastmod>2022-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benskov.dk/publication-type/2/</loc>
+    <lastmod>2022-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benskov.dk/tag/first-author/</loc>
+    <lastmod>2022-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benskov.dk/publication/2022/nlpandmed/</loc>
+    <lastmod>2022-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benskov.dk/publication_types/</loc>
+    <lastmod>2022-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benskov.dk/publication/</loc>
+    <lastmod>2022-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benskov.dk/poster/2022/eacpt_2022__adaptive_trials_guidance/</loc>
+    <lastmod>2022-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benskov.dk/tag/platform-trial/</loc>
+    <lastmod>2022-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benskov.dk/poster/</loc>
+    <lastmod>2022-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benskov.dk/tag/rcts/</loc>
+    <lastmod>2022-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benskov.dk/tag/trial-design/</loc>
+    <lastmod>2022-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benskov.dk/publication/2022/hidosfaikid/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/article-ddimark/</loc>
-    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+    <loc>https://benskov.dk/publication/2022/ddimark/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/first-author/</loc>
-    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+    <loc>https://benskov.dk/tag/bayesian-data-analysis/</loc>
+    <lastmod>2018-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+    <loc>https://benskov.dk/talk/2018/afd_4131__bayesiansk_analyse_af_rct/</loc>
+    <lastmod>2018-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
-    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+    <loc>https://benskov.dk/authors/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+    <loc>https://benskov.dk/author/benjamin-skov-kaas-hansen/</loc>
   </url>
   
   <url>
-    <loc>/publication/article-hidosfaikid/</loc>
-    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+    <loc>https://benskov.dk/categories/</loc>
   </url>
   
   <url>
-    <loc>/publication/preprint-hidosfaikid/</loc>
-    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
+    <loc>https://benskov.dk/courses/</loc>
   </url>
   
   <url>
-    <loc>/publication/preprint-ddimark/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/benjamin-skov-kaas-hansen/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/bigtemphealth/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>https://benskov.dk/post/</loc>
   </url>
   
 </urlset>

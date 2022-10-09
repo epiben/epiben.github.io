@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RCTs | Benjamin Skov Kaas-Hansen</title>
+    <link>https://benskov.dk/tag/rcts/</link>
+      <atom:link href="https://benskov.dk/tag/rcts/index.xml" rel="self" type="application/rss+xml" />
+    <description>RCTs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://benskov.dk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>RCTs</title>
+      <link>https://benskov.dk/tag/rcts/</link>
+    </image>
+    
+    <item>
+      <title>Design considerations in clinical trials with adaptive stopping, arm-dropping and randomisation</title>
+      <link>https://benskov.dk/poster/2022/eacpt_2022__adaptive_trials_guidance/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://benskov.dk/poster/2022/eacpt_2022__adaptive_trials_guidance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesiansk analyse af RCT</title>
+      <link>https://benskov.dk/talk/2018/afd_4131__bayesiansk_analyse_af_rct/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://benskov.dk/talk/2018/afd_4131__bayesiansk_analyse_af_rct/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

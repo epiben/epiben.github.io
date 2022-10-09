@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bayesian data analysis | Benjamin Skov Kaas-Hansen</title>
+    <link>https://benskov.dk/tag/bayesian-data-analysis/</link>
+      <atom:link href="https://benskov.dk/tag/bayesian-data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bayesian data analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://benskov.dk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Bayesian data analysis</title>
+      <link>https://benskov.dk/tag/bayesian-data-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Bayesiansk analyse af RCT</title>
+      <link>https://benskov.dk/talk/2018/afd_4131__bayesiansk_analyse_af_rct/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://benskov.dk/talk/2018/afd_4131__bayesiansk_analyse_af_rct/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
