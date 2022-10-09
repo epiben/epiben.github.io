@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First author | Benjamin Skov Kaas-Hansen</title>
+    <link>/tag/first-author/</link>
+      <atom:link href="/tag/first-author/index.xml" rel="self" type="application/rss+xml" />
+    <description>First author</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>First author</title>
+      <link>/tag/first-author/</link>
+    </image>
+    
+    <item>
+      <title>Drug interactions in hospital prescriptions in Denmark: Prevalence and associations with adverse outcomes</title>
+      <link>/publication/article-ddimark/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/article-ddimark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using machine learning to identify patients at high risk of inappropriate drug dosing in periods with renal dysfunction</title>
+      <link>/publication/article-hidosfaikid/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/article-hidosfaikid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying patients at high risk of inappropriate drug dosing in periods with renal dysfunction</title>
+      <link>/publication/preprint-hidosfaikid/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint-hidosfaikid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drug interactions in hospital prescriptions in Denmark: Prevalence and associations with adverse outcomes</title>
+      <link>/publication/preprint-ddimark/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint-ddimark/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
