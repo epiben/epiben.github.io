@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data standardisation | Benjamin Skov Kaas-Hansen</title>
+    <link>https://benskov.dk/tag/data-standardisation/</link>
+      <atom:link href="https://benskov.dk/tag/data-standardisation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data standardisation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://benskov.dk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Data standardisation</title>
+      <link>https://benskov.dk/tag/data-standardisation/</link>
+    </image>
+    
+    <item>
+      <title>An OMOP-based tool for surveying and visualising concurrent drug exposure and renal function</title>
+      <link>https://benskov.dk/poster/2019/ohdsi_eurosymp/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://benskov.dk/poster/2019/ohdsi_eurosymp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

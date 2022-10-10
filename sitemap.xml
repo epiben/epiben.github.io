@@ -3,17 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://benskov.dk/</loc>
+    <lastmod>2022-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benskov.dk/cv/</loc>
+    <lastmod>2022-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benskov.dk/cv/summative/</loc>
+    <lastmod>2022-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://benskov.dk/tag/artificial-intelligence/</loc>
     <lastmod>2022-10-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://benskov.dk/</loc>
+    <loc>https://benskov.dk/tag/drug-safety/</loc>
     <lastmod>2022-10-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://benskov.dk/tag/drug-safety/</loc>
+    <loc>https://benskov.dk/tag/invited-talk/</loc>
     <lastmod>2022-10-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -110,6 +125,26 @@
   <url>
     <loc>https://benskov.dk/tag/observational-epidemiology/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benskov.dk/poster/2019/ohdsi_eurosymp/</loc>
+    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benskov.dk/tag/data-science/</loc>
+    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benskov.dk/tag/data-standardisation/</loc>
+    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benskov.dk/tag/omop/</loc>
+    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
